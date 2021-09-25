@@ -1,12 +1,11 @@
 #3
-'''
 
 import numpy as np
 from matplotlib import pyplot as plt
 
 results = np.random.multinomial(1000, [1/10.]*10, size=1)
 print(results, "\n")
-'''
+
 #4
 import numpy as np
 import matplotlib.pyplot as plt
